@@ -42,3 +42,5 @@ gem 'cancan', '>= 1.6.8'
 
 # Use devise for authentication
 gem 'devise', '~> 3.4.1'
+
+gem 'omniauth', '~> 1.2.2'
